@@ -1,0 +1,38 @@
+{
+    "8029208344": {
+        "unique_device_id": "Google|97bd6ce6-ebf7-490d-a6a4-a9a3fd2229bc",
+        "brand": "OnePlus",
+        "model": "CPH2451",
+        "gpu_renderer": "Adreno (TM) 740",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1280,
+        "screen_height": 1600,
+        "screen_dpi": "368",
+        "memory": 6232,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2464 | 7",
+        "client_ip": "192.15.159.150",
+        "android_id": "99edd7e5b97a8da0",
+        "gsf_id": "9c04601887ff1575",
+        "build_fingerprint": "oneplus/cph2451/cph2451:Android_OS_13/user/release-keys",
+        "serial_number": "cec502b2424204e3",
+        "hardware_id": "a20b36492acfe6c0"
+    },
+    "8039519940": {
+        "unique_device_id": "Google|c825561b-813b-4029-a6bd-63a02b7cdb36",
+        "brand": "Realme",
+        "model": "RMX3700",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 14 / API-34",
+        "screen_width": 1440,
+        "screen_height": 2400,
+        "screen_dpi": "366",
+        "memory": 4736,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 3124 | 10",
+        "client_ip": "161.125.98.100",
+        "android_id": "c10b59833d6ad579",
+        "gsf_id": "368208b0c95c2033",
+        "build_fingerprint": "realme/rmx3700/rmx3700:Android_OS_14/user/release-keys",
+        "serial_number": "fbbd184e0cb3eca3",
+        "hardware_id": "b20981471bb9a481"
+    }
+}
